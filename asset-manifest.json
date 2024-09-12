@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.51c2bcd2.css",
+    "main.js": "/my-portfolio/static/js/main.dec191ea.js",
+    "static/js/453.41811d64.chunk.js": "/my-portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/Promptopia.png": "/my-portfolio/static/media/Promptopia.e855682c0030b564c801.png",
+    "static/media/pnams.png": "/my-portfolio/static/media/pnams.c5372f149b6df94f649e.png",
+    "static/media/ball-tracking.jpeg": "/my-portfolio/static/media/ball-tracking.ff13b4c18ff92802b9a0.jpeg",
+    "static/media/Healthcare-Chat-Bot.png": "/my-portfolio/static/media/Healthcare-Chat-Bot.b033b4308ebc82f78b65.png",
+    "static/media/bg-light.png": "/my-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/my-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Real-Time-Chat-App.png": "/my-portfolio/static/media/Real-Time-Chat-App.2469273574bcd6a7d015.png",
+    "static/media/Fake-News-Detector.png": "/my-portfolio/static/media/Fake-News-Detector.2dddd5416dfc44b9d092.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.51c2bcd2.css.map": "/my-portfolio/static/css/main.51c2bcd2.css.map",
+    "main.dec191ea.js.map": "/my-portfolio/static/js/main.dec191ea.js.map",
+    "453.41811d64.chunk.js.map": "/my-portfolio/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c2bcd2.css",
+    "static/js/main.dec191ea.js"
+  ]
+}
