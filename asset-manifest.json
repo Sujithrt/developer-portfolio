@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.5cfdf049.css",
-    "main.js": "/my-portfolio/static/js/main.31371237.js",
+    "main.css": "/my-portfolio/static/css/main.62863fea.css",
+    "main.js": "/my-portfolio/static/js/main.e08b58ea.js",
     "static/js/453.41811d64.chunk.js": "/my-portfolio/static/js/453.41811d64.chunk.js",
     "static/media/Promptopia.png": "/my-portfolio/static/media/Promptopia.e855682c0030b564c801.png",
     "static/media/pnams.png": "/my-portfolio/static/media/pnams.c5372f149b6df94f649e.png",
@@ -12,12 +12,12 @@
     "static/media/Real-Time-Chat-App.png": "/my-portfolio/static/media/Real-Time-Chat-App.2469273574bcd6a7d015.png",
     "static/media/Fake-News-Detector.png": "/my-portfolio/static/media/Fake-News-Detector.2dddd5416dfc44b9d092.png",
     "index.html": "/my-portfolio/index.html",
-    "main.5cfdf049.css.map": "/my-portfolio/static/css/main.5cfdf049.css.map",
-    "main.31371237.js.map": "/my-portfolio/static/js/main.31371237.js.map",
+    "main.62863fea.css.map": "/my-portfolio/static/css/main.62863fea.css.map",
+    "main.e08b58ea.js.map": "/my-portfolio/static/js/main.e08b58ea.js.map",
     "453.41811d64.chunk.js.map": "/my-portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cfdf049.css",
-    "static/js/main.31371237.js"
+    "static/css/main.62863fea.css",
+    "static/js/main.e08b58ea.js"
   ]
 }
