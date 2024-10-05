@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.1e688473.css",
-    "main.js": "/developer-portfolio/static/js/main.b4e4a92e.js",
-    "static/js/453.4a1b4550.chunk.js": "/developer-portfolio/static/js/453.4a1b4550.chunk.js",
+    "main.js": "/developer-portfolio/static/js/main.7cb43b9a.js",
     "static/media/Promptopia.png": "/developer-portfolio/static/media/Promptopia.e855682c0030b564c801.png",
     "static/media/pnams.png": "/developer-portfolio/static/media/pnams.c5372f149b6df94f649e.png",
     "static/media/Prepify.png": "/developer-portfolio/static/media/Prepify.65c11861857b1d33fecd.png",
@@ -14,11 +13,10 @@
     "static/media/Fake-News-Detector.png": "/developer-portfolio/static/media/Fake-News-Detector.2dddd5416dfc44b9d092.png",
     "index.html": "/developer-portfolio/index.html",
     "main.1e688473.css.map": "/developer-portfolio/static/css/main.1e688473.css.map",
-    "main.b4e4a92e.js.map": "/developer-portfolio/static/js/main.b4e4a92e.js.map",
-    "453.4a1b4550.chunk.js.map": "/developer-portfolio/static/js/453.4a1b4550.chunk.js.map"
+    "main.7cb43b9a.js.map": "/developer-portfolio/static/js/main.7cb43b9a.js.map"
   },
   "entrypoints": [
     "static/css/main.1e688473.css",
-    "static/js/main.b4e4a92e.js"
+    "static/js/main.7cb43b9a.js"
   ]
 }
